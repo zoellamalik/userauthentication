@@ -1,0 +1,23 @@
+/* Loginreg.css */
+.loginreg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .loginreg-card {
+    width: 100%;
+    max-width: 400px; /* Adjust the maximum width of the login/registration box */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  /* UserLogin.css */
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px; /* Adjust this margin as needed */
+  }
+  
